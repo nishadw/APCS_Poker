@@ -1,2 +1,1 @@
-# poker
-An adaptation of Texas Hold'em Poker
+# Pokr - An adaptation of Texas Hold'em
